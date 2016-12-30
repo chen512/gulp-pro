@@ -1,0 +1,30 @@
+{
+  "name": "matt_pro",
+  "version": "1.0.0",
+  "description": "chen zhou H5 code base on gulp pro",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "gittask"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen512/gulp-pro.git"
+  },
+  "keywords": [
+    "chen",
+    "zhou",
+    "H5",
+    "frame",
+    "gulp",
+    "project"
+  ],
+  "author": "matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chen512/gulp-pro/issues"
+  },
+  "homepage": "https://github.com/chen512/gulp-pro#readme"
+}
